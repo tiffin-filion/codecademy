@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+  background-image: url('./images/hypnotize_bg.png');
   margin: 0 auto;
 }
 
@@ -64,6 +64,9 @@ a {
 .portrait {
   width: 540px;
   height: 540px;
+}
+
+.tiffin {
   border-radius: 540px;
 }
 
