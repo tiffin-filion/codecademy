@@ -1,6 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   background-image: url('https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+  margin: 0 auto;
 }
 
 header {
@@ -10,7 +11,7 @@ header {
 header .row,
 footer .row {
   display: flex;
-  align-items: center;
+  align-content: center;
 }
 
 h1 {
@@ -22,6 +23,10 @@ h1 {
 nav {
   display: flex;
   justify-content: flex-end;
+}
+
+p {
+  text-align: justify;
 }
 
 a {
@@ -56,6 +61,12 @@ a {
   color: #fff;
 }
 
+.portrait {
+  width: 540px;
+  height: 540px;
+  border-radius: 540px;
+}
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
@@ -83,11 +94,6 @@ section .row img {
   margin: 0 0 30px;
 }
 
-.portrait {
-  width:  350px;
-  height: 300px;
-}
-
 figure img {
   width: 100%;
   height: auto;
@@ -102,7 +108,7 @@ footer {
   padding: 20px 0;
 }
 
-footer .col-sm-8 {
+footer .col-sm-10 {
   display: flex;
   justify-content: flex-end;
 }
