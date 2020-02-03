@@ -1,7 +1,7 @@
 # Codecademy
  Projects created on Codecademy.com
 
-[Bio](https://tiffin-filion.github.io/Codecademy/Bio/index.html)
+[Bio](https://tiffin-filion.github.io/Codecademy/Bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio site. I then changed images, colors, etc to make it more personal
 
 <!--[Colmar Academy](https://github.com/tiffin-filion/Codecademy/Colmar%20Academy/index.html)-->
 
