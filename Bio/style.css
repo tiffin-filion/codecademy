@@ -43,7 +43,7 @@ a {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('./images/jr-korpa-9XOYkNa2vxw-unsplash.jpg');
+  background-image: url('./images/image-jr-korpa-unsplash.jpg');
   background-size: cover;
   color: #ffffff;
   height: 400px;
@@ -104,6 +104,10 @@ figure img {
 
 figure {
   margin-bottom: 30px;
+}
+
+div.col-sm-3.email > ul > li > a {
+  padding: 0;
 }
 
 footer {
