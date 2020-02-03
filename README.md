@@ -5,6 +5,6 @@
 
 <!--[Colmar Academy](https://github.com/tiffin-filion/Codecademy/Colmar%20Academy/index.html) - Haven't Started Yet: A project where I had to make a responsive landing page utilizing a wireframe-->
 
-[Dasmoto Arts](https://tiffin-filion.github.io/Codecademy/Dasmoto%20Arts/index.html)
+[Dasmoto Arts](https://tiffin-filion.github.io/Codecademy/Dasmoto%20Arts/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
 
 [Excursion](https://tiffin-filion.github.io/Codecademy/Excursion/index.html)
