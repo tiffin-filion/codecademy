@@ -1,2 +1,2 @@
 # bio
-This is a Codecademy project, using bootstrap to create a personal portfolio site.
+For this project, I utilized bootstrap to create a personal portfolio site. I then changed images, colors, etc to make it more personal
