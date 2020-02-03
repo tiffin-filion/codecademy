@@ -25,6 +25,13 @@ nav {
   justify-content: flex-end;
 }
 
+#active, a:hover {
+  background-color: #750000;
+  color: #ffffff;
+  height: 23px;
+  text-decoration: none;
+}
+
 p {
   text-align: justify;
 }
