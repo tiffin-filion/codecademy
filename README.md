@@ -1,5 +1,5 @@
 # Codecademy
- Projects created on Codecademy.com
+ Projects created on Codecademy.com - 
  Right click and open in a new tab
 
 [Bio](https://tiffin-filion.github.io/Codecademy/Bio/index.html) - For this project, I utilized bootstrap to create a personal portfolio site. I then changed images, colors, etc to make it more personal
