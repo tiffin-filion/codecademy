@@ -8,4 +8,4 @@
 
 [Dasmoto Arts](https://tiffin-filion.github.io/Codecademy/Dasmoto_Arts/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
 
-[Excursion](https://tiffin-filion.github.io/Codecademy/Excursion/index.html") - For this project, I was given a wireframe and I had to match it using html & css.
+[Excursion](https://tiffin-filion.github.io/Codecademy/Excursion/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
