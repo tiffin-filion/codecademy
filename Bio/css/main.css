@@ -68,13 +68,23 @@ a {
   color: #fff;
 }
 
-.tiffin {
-  border-radius: 540px;
-}
-
 section .row img {
   margin: 0 0 30px;
   width: 100%;
+}
+
+img.tiffin {
+  margin: 0 135px 30px;
+  border-radius: 50%;
+  max-width: 270px;
+}
+
+img.education {
+  max-width: 270px;
+}
+
+img.icon {
+  max-width: 200px;
 }
 
 .col-md-6 {
