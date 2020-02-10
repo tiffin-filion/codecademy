@@ -129,19 +129,3 @@ footer .col-sm-10 {
   display: flex;
   justify-content: flex-end;
 }
-
-/* these may no long be on the site 
-
-footer ul {
-  list-style: none;
-} 
-
-.btn-secondary {
-  background-color: #2a70e0;
-  color: #ffffff;
-  margin: 0 0 30px;
-}
-
-div.col-sm-3.email > ul > li > a {
-  padding: 0;
-} */
