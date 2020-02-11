@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Tiffin's Personal Portfolio | Home</title>
+    <title>Tiffin's Personal Portfolio</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet" type="text/css">
     <link href="css/main.css" type="text/css" rel="stylesheet">
   </head>
 
@@ -17,11 +16,10 @@
       <div class="row">
         <h1 class="col-sm-6">Tiffin Filion</h1>
         <nav class="col-sm-6 text-right">
-          <a href="#" id="active" aria-label="current page, home">Home</a>
-          <a href="about/index.html" aria-label="link to about page">About</a>
-          <a href="education/index.html" aria-label="link to education page">Education</a>
-          <a href="experience/index.html" aria-label="link to experience page">Experience</a>
-          <a href="contact/index.html" aria-label="link to contact page">Contact</a>
+          <a href="#about" aria-label="link to about section">About</a>
+          <a href="#education" aria-label="link to education section">Education</a>
+          <a href="#experience" aria-label="link to experience section">Experience</a>
+          <a href="#contact" aria-label="link to contact section">Contact</a>
         </nav>
       </div>
     </header>
@@ -30,24 +28,199 @@
     <section class="jumbotron">
       <div class="container">
         <h2>Future Software Engineer</h2>
-        <h3>html | css | javascript | sql</h3>
+        <h3>html | css | javascript</h3>
       </div>
     </section>
 
-    <!--BACK TO TOP
+    <!--ABOUT CONTENT AREA-->
+    <section class="container" id="about">
+      <div class="row justify-content-center">
+        <div class="col-sm-12">
+          <img src="img/me.jpg" alt="image of Tiffin" class="tiffin" />
+          <h2>Welcome to my personal portfolio!</h2>
+          <p>I have a Bachelor's Degree in Web Design (which is outdated), so I'm updating my skills. Currently I'm attending Skillcrush for Web Development.</p>
+          <p>My uncle felt having a computer was important, so I've had one at home since I was 2. Typing "RUN" was the norm for awhile. Then when the internet became mainstream, he felt we needed access to that too. So I taught myself HTML 1.0 to create a website by myself.</p>
+          <p>I love to learn and I love to create and test things, so Software Developer is the perfect job for me. Also, I was a Quality Assurance Engineer for websites &amp; emails for the past 13 years, so I feel I have a bit of an advantage on testing what I create.</p>
+        </div>
+      </div>
+    </section>
+
+    <!--BACK TO TOP-->
     <section class="container">
       <div class="row justify-content-center">
         <a href="#nav" class="btn btn-primary" aria-label="back to top button">Back to Top</a>
       </div>
-    </section>-->
+    </section>
+
+    <!--EDUCATION ROW ONE CONTENT AREA-->
+    <section class="container" id="education">
+      <div class="row">
+        <div class="col-sm-3">
+          <h2>Highline College</h2>
+          <img src="img/logo-highline.png" alt="Highline College Logo" class="education" />
+          <ul>
+            <li>Pending Enrollment</li>     
+          </ul>
+        </div>
+        <div class="col-sm-3">
+          <h2>Skillcrush</h2>
+          <img src="img/logo-skillcrush.png" alt="Skillcrush Logo" class="education" />
+          <ul>
+            <li>HTML5, CSS3, Domains, Web Hosting, FTP</li>
+            <li>Version Control, Command Line, Git, GitHub</li>  
+            <li>Responsive Typography, Flexbox, Media Queries, Breakpoints</li>  
+            <!--<li>Computational Thinking, Basic JavaScript, jQuery</li>-->
+            <!--<li>WordPress, PHP, Custom Themes</li>-->
+            <!--<li>Child Themes, Theme Customization, Development, Workflow</li>-->
+            <!--<li>Ruby, Gems, Objects, Varibles, Arrays, Hashes, Loops, Methods</li>--> 
+            <!--<li>Sinatra, Postgres, ActiveRecord, Heroku</li>-->
+            <!--<li>Rails, Test Writing, Deploy Rails Apps</li>-->    
+          </ul>
+        </div>
+        <div class="col-sm-3">
+          <h2>freeCodeCamp</h2>
+          <img src="img/logo-fcc.png" alt="freeCodeCamp Logo" class="education" />
+          <ul>
+            <li>Basic HTML and HTML5</li>
+            <li>Basic CSS</li>
+            <li>Applied Visual Design</li>
+            <li>Applied Accessibility</li>
+            <li>Responsive Web Design Principles</li>
+            <li>CSS Flexbox</li>
+            <li>CSS Grid</li>
+          </ul>
+        </div>  
+        <div class="col-sm-3">
+          <h2>Codecademy</h2>
+          <img src="img/logo-codecademy.png" alt="Codecademy Logo" class="education" />
+          <ul>
+            <li>Learn SQL</li>
+            <li>Learn HTML5</li>
+            <li>Learn CSS3</li>
+            <li>Learn Responsive Design</li>
+            <li>Learn Bootstrap</li>
+            <li>Learn Sass</li>
+            <li>Learn the Command Line</li>
+            <li>Learn Git</li>
+          </ul>
+        </div> 
+      </div>
+    </section>
+
+    <!--EDUCATION ROW TWO CONTENT AREA-->
+    <section class="container">
+      <div class="row">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-3">
+          <h2>Pluralsight</h2>
+          <img src="img/logo-pluralsight.png" alt="Pluralsight Logo" class="education" />
+          <ul>
+            <li>Proficient Level:
+              <ul>
+                <li>CSS</li>
+                <li>HTML5</li>
+                <li>JavaScript</li>
+                <li>MySQL</li>
+              </ul>
+            </li>
+            <li>Novice Level:
+              <ul>
+                <li>Git</li>
+                <li>GitHub</li>
+                <li>jQuery</li>
+                <li>Python</li>
+              </ul>
+            </li>
+          </ul>
+        </div>                
+        <div class="col-sm-3">
+          <h2>Kaplan University</h2>
+          <img src="img/logo-kaplan.png" alt="Kaplan University Logo" class="education" />
+          <ul>
+            <li>HTML4 & CSS2</li>
+            <li>Database Management (MS Access)</li>
+            <li>MySQL</li>
+            <li>Data Structures and Algorithms</li>
+            <li>Object Oriented Programming</li>
+            <li>Animation Behaviors (Flash)</li>
+            <li>Graphics and Multimedia for Web (jQuery)</li>           
+          </ul>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+    </section>
+
+    <!--BACK TO TOP-->
+    <section class="container">
+      <div class="row justify-content-center">
+        <a href="#nav" class="btn btn-primary" aria-label="back to top button">Back to Top</a>
+      </div>
+    </section>
+
+    <!--EXPERIENCE PROJECTS-->
+    <section class="container" id="experience">
+      <h2>Experience Projects</h2>
+      <ul>
+        <li>Skillcrush:
+          <ul>
+            <li><a href="../../../skillcrush/jubilee/index.html" target="_blank" aria-label="link to jubilee project page">Jubilee</a>I had a bit of direction, but I started to learn how to develop a static web page from a PSD.</li>
+            <li><a href="../../../skillcrush/rogue/index.html" target="_blank" aria-label="link to rogue projet page">Rogue</a>I learned how to develop a static web page with nothing but a PSD file for guidance.</li>
+            <li><a href="../../../skillcrush/skillcrush-html-final/index.html" target="_blank" aria-label="link to skillcrush html final project">HTML Final Project</a>I was given the choice of a few layouts and the PSD for each. I then had to recreate the page and then change the design (colors, fonts, images, content, etc) to my liking. I also added a second page that showed more projects that I've completed.</li>
+          </ul>
+        </li>
+        <li>freeCodeCamp:<br />I had a list of items I needed to complete, but had free rein on how it could be styled.
+          <ul>
+            <li><a href="../../../freecodecamp/responsive/tribute/index.html" target="_blank" aria-label="link to tribute project page">Tribute Page</a></li>
+            <li><a href="../../../freecodecamp/responsive/survey/index.html" target="_blank" aria-label="link to survey form project page">Survey Form Page</a></li>
+            <li><a href="../../../freecodecamp/responsive/product/index.html" target="_blank" aria-label="link to product project page">Product Page</a></li>
+            <li><a href="../../../freecodecamp/responsive/tech-doc/index.html" target="_blank" aria-label="link to technical documentation project page">Technical Documentation Page</a></li>
+            <li><a href="../../../freecodecamp/responsive/portfolio/index.html" target="_blank" aria-label="link to freecodecamp portfolio project page">Portfolio</a>.</li>
+          </ul>
+        </li>
+        <li>Codecademy:
+          <ul>
+            <li><a href="#nav" aria-label="current page, Bio">Bio</a>This is the site you are currently on. For this project, I utilized bootstrap to create a personal portfolio page. I then changed images, colors, etc. to make it more personal.</li>
+            <li><a href="../../dasmoto-arts/index.html" target="_blank" aria-label="link to dasmoto arts project page">Dasmoto Arts</a>For this project, I was given a wireframe and I had to match it using HTML & CSS.</li>
+            <li><a href="../../Excursion/index.html" target="_blank" aria-label="link to excursion project page">Excursion</a>For this project, I was given a wireframe and I had to match it using HTML & CSS.</li>
+            <li><a href="../../colmar-academy/index.html" target="_blank" aria-label="link to colmar academy project page">Colmar Academy</a>Haven't Started Yet: A project where I had to make a responsive landing page utilizing a wireframe.</li>
+          </ul>
+        </li>
+        <li>PluralSight:
+          <ul>
+            <li><a href="../../pluralsight/html-css-landing-page/index.html" aria-label="link to pluralsight html css landing page">HTML/CSS Landing Page</a>Content was already there, was given steps to follow to add styling.</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <!--BACK TO TOP-->
+    <section class="container">
+      <div class="row justify-content-center">
+        <a href="#nav" class="btn btn-primary" aria-label="back to top button">Back to Top</a>
+      </div>
+    </section>
+
+    <!--CONTACT SECTION-->
+    <section class="container" id="contact">
+      <h2>Contact Me</h2>
+      <div class="row">
+        <div class="col-sm-3 email">
+          <ul>
+            <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#101;&#108;&#108;&#111;&#64;&#116;&#105;&#102;&#102;&#105;&#110;&#46;&#98;&#105;&#111;" target="_blank" aria-label="email tiffin link">&#69;&#109;&#97;&#105;&#108;&#32;&#77;&#101;</a></li>
+            <li><a href="http://tiffin.bio" target="_blank" aria-label="link to tiffin's bio website">Website</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
 
     <!--FOOTER-->
     <footer class="container">
       <div class="row">
-        <p class="col-sm-2">&copy; 2019 Tiffin Filion<br>
-          <a href="https://unsplash.com/@korpa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" aria-label="link to jr korpa's unsplash page" class="unsplash">Photo: JR Korpa/Unsplash</a>
+        <p class="col-sm-8">&copy; 2019 Tiffin Filion&nbsp;|&nbsp;Photo:&nbsp;
+          <a href="https://unsplash.com/@korpa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" aria-label="link to jr korpa's unsplash page" class="unsplash">JR Korpa/Unsplash</a>&nbsp;|&nbsp;Icons:<a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> and <a href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+          
         </p>
-        <div class="col-sm-10">
+        <div class="col-sm-4">
           <a href="https://github.com/tiffin-filion" target="_blank" aria-label="link to tiffin's github page"><img src="img/icon-github.png" alt="GitHub Logo" /></a>
           <a href="https://www.linkedin.com/in/tiffin" target="_blank" aria-label="link to tiffin's linkedin page"><img src="img/icon-linkedin.png" alt="LinkedIn Logo" /></a>
           <a href="https://twitter.com/tiggertiffin87" target="_blank" aria-label="link to twitter page"><img src="img/icon-twitter.png" alt="Twitter Logo" /></a>
