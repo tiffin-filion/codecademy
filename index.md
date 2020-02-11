@@ -1,8 +1,3 @@
-# Codecademy
- Projects created on Codecademy.com
- 
-_right click and open in a new tab_
-
 [Dasmoto Arts](https://tiffin-filion.github.io/codecademy/dasmoto-arts/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
 
 [Excursion](https://tiffin-filion.github.io/codecademy/excursion/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
