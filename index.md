@@ -1,7 +1,7 @@
 # Codecademy
  Projects created on Codecademy.com
  
- Right click and open in a new tab
+_right click and open in a new tab_
 
 [Dasmoto Arts](https://tiffin-filion.github.io/codecademy/dasmoto-arts/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
 
