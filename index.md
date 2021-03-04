@@ -1,4 +1,4 @@
-[Fundamentals] (https://tiffin-filion.github.io/codecademy/fundamentals) - list of projects completed on the site
+[Fundamentals](https://tiffin-filion.github.io/codecademy/fundamentals) - list of projects completed on the site
 
 [Excursion](https://tiffin-filion.github.io/codecademy/excursion/index.html) - For this project, I was given a wireframe and I had to match it using html & css.
 
