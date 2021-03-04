@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai|Comfortaa|Roboto+Mono&display=swap');
+
+body {
+  font-family: Comfortaa, cursive, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: indigo;
+  font-family: "Baloo Bhai", cursive, sans-serif;
+}
+
+table {
+  border: 1px solid indigo;
+}
+
+thead {
+  background-color: indigo;
+  color: white;
+}
+
+td {
+  border-top: 1px solid indigo;
+}
+
+td:nth-child(odd) {
+  font-weight: bold;
+  width: 100px;
+  text-transform: lowercase;
+  font-family: "Roboto Mono", monospace;
+  color: magenta;
+}
+
+tr:nth-child(even) {
+  background-color: plum;
+}
