@@ -39,7 +39,7 @@ Olivia Woodruff Portfolio - CSS Selectors and Visual Rules
 
 
 Dasmoto's Arts & Crafts - Developing with CSS
-![Project Page](https://github.com/tiffin-filion/codecademy/fundamentalsdasmoto-arts/README.md)
+(https://github.com/tiffin-filion/codecademy/fundamentals/dasmoto-arts/README.md)
 
 Paint Store - CSS Colors
 * exchange named colors for hexadecimal color values
