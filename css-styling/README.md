@@ -8,7 +8,7 @@
 [Broadway - Display & Positioning](https://tiffin-filion.github.io/codecademy/css-styling/broadway.html)
 * utilize display and position to improve layout
 
-[Fotomatic - Documentation & Debugging](https://tiffin-filion.github.io/codecademy/css-styling/fotomatic.html)
+[Fotomatic Project Page - Documentation & Debugging](https://github.com/tiffin-filion/codecademy/blob/master/fotomatic/README.md)
 
 [Journey Around the World - Color Theory](https://tiffin-filion.github.io/codecademy/css-styling/journey.html)
 

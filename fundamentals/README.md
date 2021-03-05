@@ -37,8 +37,7 @@
 * change font family
 * add background image
 
-
-[Dasmoto's Arts & Crafts - Developing with CSS](https://github.com/tiffin-filion/codecademy/blob/master/dasmoto-arts/README.md)
+[Dasmoto's Arts & Crafts Project Page - Developing with CSS](https://github.com/tiffin-filion/codecademy/blob/master/dasmoto-arts/README.md)
 
 [Paint Store - CSS Colors](https://tiffin-filion.github.io/codecademy/fundamentals/paint-store.html)
 * exchange named colors for hexadecimal color values
