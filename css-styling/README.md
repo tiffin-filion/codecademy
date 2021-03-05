@@ -11,8 +11,13 @@
 [Fotomatic Project Page - Documentation & Debugging](https://github.com/tiffin-filion/codecademy/blob/master/fotomatic/README.md)
 
 [Journey Around the World - Color Theory](https://tiffin-filion.github.io/codecademy/css-styling/journey.html)
+* site is in grayscale
+* select a color scheme and apply to elements
 
 [Pinpoint E-Commerce - Color for UI](https://tiffin-filion.github.io/codecademy/css-styling/pinpoint.html)
+* site in in grayscale
+* select a color scheme and apply to elements
+* making sure to style information alerts separately
 
 [Reel Good Reviews - Text Design](https://tiffin-filion.github.io/codecademy/css-styling/reelgoodreviews.html)
 
