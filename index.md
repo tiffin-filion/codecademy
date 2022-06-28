@@ -10,7 +10,8 @@
 - [x] Overview of Web Development (What is the Internet, What is Front-End Development)
 - [x] Fundamentals of HTML (Elements, Structure, Tables, Semantic HTML)
 - [x] Fundamentals of CSS (Selectors & Visual Rules, Box Model, Display & Positioning)
-- [ ] Developing Websites Locally (Using Text Editors)
+- [x] Developing Websites Locally (Using Text Editors)
+- [x] [DASMOTO ARTS PROJECT](/DasmotoArts/)
 - [ ] Deploying Websites
 - [ ] Improved Styling with CSS
 - [ ] Fundamentals of Web Design
