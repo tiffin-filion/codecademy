@@ -1,5 +1,5 @@
 # Codecademy Front-End Engineer Path
-- [Dasmoto Arts Project](/codecademy/DasmotoArts/)
+- [Dasmoto Arts Project](/codecademy/DasmotoArts/)(right click to open in new tab)
 
 ## Fundamentals
 - [x] Introduction to Front-End Engineer Career Path
@@ -7,7 +7,7 @@
 - [x] Fundamentals of HTML (Elements, Structure, Tables, Semantic HTML)
 - [x] Fundamentals of CSS (Selectors & Visual Rules, Box Model, Display & Positioning)
 - [x] Developing Websites Locally (Using Text Editors)
-- [x] [DASMOTO ARTS PROJECT](/codecademy/DasmotoArts/)
+- [x] **Dasmoto Arts Project**
 - [ ] Deploying Websites
 - [ ] Improved Styling with CSS
 - [ ] Fundamentals of Web Design
