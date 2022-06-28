@@ -14,6 +14,7 @@
 - [ ] Deploying Websites
 - [ ] Improved Styling with CSS
 - [ ] Fundamentals of Web Design
+
 ### JavaScript, Interactive Websites, Accessibility, Transitions & Animation
 - [ ] Making a Website Responsive
 - [ ] JavaScript Syntax, Part 1
@@ -23,17 +24,20 @@
 - [ ] CSS Transitions and Animation
 - [ ] Git and GitHub, Part 1
 - [ ] **Portfolio Project: Personal Portfolio Website**
+
 ### JavaScript Testing, Async JavaScript, HTTP Requests, Web Apps
 - [ ] JavaScript Syntax, Part 3
 - [ ] JavaScript Testing
 - [ ] Async JavaScript and HTTP Requests
 - [ ] Web Apps
+
 ### React & Redux
 - [ ] React, Part 1
 - [ ] React, Part 2
 - [ ] Redux
 - [ ] Git and GitHub, Part 2
 - [ ] Advanced Web Development
+
 ### Technical Interview Prep
 - [ ] What to Expect in a Technical Interview
 - [ ] Linear Data Structures
