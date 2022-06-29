@@ -1,5 +1,10 @@
 # Codecademy Front-End Engineer Path
-- [Dasmoto Arts Project](/codecademy/DasmotoArts/)(right click to open in new tab)
+
+## Projects
+_right click links to open in a new tab_
+- [Dasmoto Arts Project](/codecademy/DasmotoArts/)
+- [Cheat Sheet Project](/codecademy/CheatSheet/)
+- [Website Design System](/codecademy/WDS/)
 
 ## Fundamentals
 - [x] Introduction to Front-End Engineer Career Path
@@ -8,8 +13,10 @@
 - [x] Fundamentals of CSS (Selectors & Visual Rules, Box Model, Display & Positioning)
 - [x] Developing Websites Locally (Using Text Editors)
 - [x] **Dasmoto Arts Project**
-- [ ] Deploying Websites
-- [ ] Improved Styling with CSS
+- [x] Deploying Websites (using GitHub Pages & command line)
+- [ ] Improved Styling with CSS (Colors, Typography, Links & Buttons, Secondary nav)
+- [ ] **Challenge Project: Build Your Own Cheat Sheet**
+- [ ] **Challenge Project: Build a Website Design System**
 - [ ] Fundamentals of Web Design
 
 ## JavaScript, Interactive Websites, Accessibility, Transitions & Animation
