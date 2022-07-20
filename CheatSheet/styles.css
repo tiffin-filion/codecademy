@@ -76,7 +76,7 @@ table tbody tr td:nth-child(2) {
 }
 
 #examples {
-  display: flex;
+  display: grid;
 }
 
 #square, #circle {
