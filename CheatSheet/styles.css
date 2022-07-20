@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: 'Albert Sans', sans-serif;
+  font-weight: normal;
+}
+
+:root {
+  --linkLOVE: purple;
+  --linkHATE: pink;
+  --example: pink;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+h3,
+table th {
+  font-size: 1.17em;
+  font-weight: bolder;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:link, a:visited {
+  color: var(--linkLOVE);
+}
+
+a:hover, a:active {
+  color: var(--linkHATE);
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 1px;
+}
+
+table thead {
+  text-align: left;
+}
+
+table tfoot tr td {
+  text-align: center;
+  padding: 1em;
+}
+
+table tfoot tr td a {
+  font-size: .8em;
+  font-style: italic;
+}
+
+table thead tr th:first-of-type,
+table tbody tr td:first-of-type,
+table thead tr th:nth-child(2),
+table tbody tr td:nth-child(2) {
+  width: 20%;
+}
+
+#examples {
+  display: flex;
+}
+
+#square, #circle {
+  width: 100px;
+  height: 100px;
+  background-color: var(--example);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#circle {
+  border-radius: 50px;
+}
+
+#shadow {
+  width: 100px;
+  height: 100px;
+  background-color: var(-example);
+  box-shadow: 1px 1px 3px magenta, -1px -1px 3px blue;
+}
+
+.text p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 5em;
+  text-shadow: 0 2px 0 black;
+  color: var(--example);
+}

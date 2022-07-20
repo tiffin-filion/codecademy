@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CheatSheet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100;400;900&display=swap"
+    rel="stylesheet">
+  <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <h1>Common CSS Selectors Reference</h1>
+  </header>
+
+  <main>
+    <section id="table">
+      <table>
+        <thead>
+          <tr>
+            <th colspan>CSS Attribute</th>
+            <th colspan>Name</th>
+            <th colspan>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="#border-radius">border-radius</a></td>
+            <td>Border Radius</td>
+            <td>Most popular CSS property, it was the CSS3 flagship property.
+              Changes the corners of a border to be more rounded. Setting the
+              border-radius to half the width (or height) of a square, turns it
+              into a circle.</td>
+          </tr>
+          <tr>
+            <td><a href="#box-shadow">box-shadow</a></td>
+            <td>Box Shadow</td>
+            <td>Applies depth to elements by adding a shadow. You can apply
+              multiple shadows to the same element resulting in interesting
+              effects.</td>
+          </tr>
+          <tr>
+            <td><a href="#text-shadow">text-shadow</a></td>
+            <td>Text Shadow</td>
+            <td>Similar to box-shadow but applied to text. It uses the same
+              parameters too: x-offset, y-offset, blur, color.</td>
+          </tr>
+          <tr>
+            <td><a href="#text-stroke">text-stroke</a></td>
+            <td>Text Stroke</td>
+            <td>Essentially, it changes the outline of the text characters. If
+              you have large uppercase text, you could outline it in one color,
+              while it's filled in with another.</td>
+          </tr>
+          <tr>
+            <td><a href="#background">background</a></td>
+            <td>Multiple Backgrounds</td>
+            <td>The background property allows for multiple backgrounds. You
+              could use an image and then overlay it with a semi-opaque texture
+              changing how the image appears.</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan=3><a
+                href="https://code.tutsplus.com/tutorials/10-css3-properties-you-need-to-be-familiar-with--net-16417"
+                target="_blank">Tuts Plus Reference Page</a></td>
+          </tr>
+        </tfoot>
+      </table>
+    </section>
+    <section id="examples">
+      <h2>Examples</h2>
+      <article id="border-radius">
+        <h3>border-radius</h3>
+        <div id="square">100px x 100px div</div>
+        <div id="circle">same div size but with a 50px border-radius</div>
+      </article>
+      <article id="box-shadow">
+        <h3>box-shadow</h3>
+        <div id="shadow"></div>
+      </article>
+      <article id="text-shadow">
+        <h3>text-shadow</h3>
+        <div class="text">
+          <p>Hello World</p>
+        </div>
+      </article>
+      <article id="text-stroke">
+        <h3>text-stroke</h3>
+        <div class="text">
+          <p>Hello World</p>
+        </div>
+      </article>
+      <article id="background">
+        <h3>background</h3>
+        <div id="multiple"></div>
+      </article>
+    </section>
+  </main>
+</body </html>
